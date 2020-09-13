@@ -1,12 +1,10 @@
-package com.citybreakco;
+package com.codingbeyond;
 
-import com.citybreakco.machinelearning.LinearRegression;
+import com.codingbeyond.machinelearning.LinearRegression;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
-import org.jfree.chart.plot.Marker;
 import org.jfree.chart.plot.XYPlot;
-import org.jfree.chart.renderer.xy.XYItemRenderer;
 import org.jfree.chart.renderer.xy.XYLineAndShapeRenderer;
 import org.jfree.data.xy.XYSeries;
 import org.jfree.data.xy.XYSeriesCollection;
@@ -15,10 +13,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.geom.Ellipse2D;
 import java.awt.geom.Rectangle2D;
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -26,7 +20,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //Uncomment this block and comment rest of code to train model 
+        //Uncomment this block and comment rest of code to train model
         /*ArrayList<Double> openList = new ArrayList<>();
         ArrayList<Double> closeList = new ArrayList<>();
 

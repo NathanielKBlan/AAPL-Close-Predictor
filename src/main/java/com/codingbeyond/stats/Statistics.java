@@ -1,4 +1,4 @@
-package com.citybreakco.stats;
+package com.codingbeyond.stats;
 
 import java.util.ArrayList;
 

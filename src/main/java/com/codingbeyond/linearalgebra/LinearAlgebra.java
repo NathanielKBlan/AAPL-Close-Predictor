@@ -1,4 +1,4 @@
-package com.citybreakco.linearalgebra;
+package com.codingbeyond.linearalgebra;
 
 public class LinearAlgebra {
 

@@ -1,7 +1,7 @@
-package com.citybreakco.machinelearning;
+package com.codingbeyond.machinelearning;
 
-import com.citybreakco.linearalgebra.LinearAlgebra;
-import com.citybreakco.stats.Statistics;
+import com.codingbeyond.linearalgebra.LinearAlgebra;
+import com.codingbeyond.stats.Statistics;
 import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
 
